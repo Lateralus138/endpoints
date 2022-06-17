@@ -1,7 +1,8 @@
 {
   "schemaVersion": 1,
-  "label": "Color Static",
+  "label": "Color Static (C++ Edition)",
   "labelColor": "1d1d1d",
   "message": "https://www.github.com/Lateralus138/colorstatic",
-  "color": "ee1111"
+  "color": "ee1111",
+  "style": "for-the-badge"
 }
